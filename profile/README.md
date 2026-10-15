@@ -20,8 +20,8 @@
 
 | 저장소 | 역할 |
 | --- | --- |
-| [ai-assistant](https://github.com/KTcs-KLink/ai-assistant) | 질문 입력, 답변·출처 확인 등 사용자 화면 |
-| [knowledge-mcp](https://github.com/KTcs-KLink/knowledge-mcp) | MCP 기능, 지식 문서 수집·청킹, 출처 및 데이터 관리 |
+| [ai-assistant](https://github.com/KTcs-KLink/ai-assistant) | 사용자 화면, Assistant 서버·오케스트레이터, 모델 연동 및 MCP Client |
+| [knowledge-mcp](https://github.com/KTcs-KLink/knowledge-mcp) | 지식 문서 수집·청킹, 검색·출처 관리 및 MCP Server |
 | [.github](https://github.com/KTcs-KLink/.github) | 공통 협업 가이드, Issue·PR 템플릿 |
 
 ## 지식 데이터 원칙
