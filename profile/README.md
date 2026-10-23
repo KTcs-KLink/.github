@@ -1,4 +1,4 @@
-# KTcs K-Link
+# K-Link
 
 <p align="center">
   <strong>업무지식을 더 빠르게 찾고, 근거와 함께 활용하는 AI</strong><br>
@@ -20,15 +20,15 @@
 
 | 저장소 | 역할 |
 | --- | --- |
-| [ai-assistant](https://github.com/KTcs-KLink/ai-assistant) | 사용자 화면, Assistant 서버·오케스트레이터, 모델 연동 및 MCP Client |
-| [knowledge-mcp](https://github.com/KTcs-KLink/knowledge-mcp) | 지식 문서 수집·청킹, 검색·출처 관리 및 MCP Server |
-| [.github](https://github.com/KTcs-KLink/.github) | 공통 협업 가이드, Issue·PR 템플릿 |
+| `ai-assistant` | 사용자 화면, Assistant 서버·오케스트레이터, 모델 연동 및 MCP Client |
+| `knowledge-mcp` | 지식 문서 수집·청킹, 검색·출처 관리 및 MCP Server |
+| `.github` | 공통 협업 가이드, Issue·PR 템플릿 |
 
 ## 지식 데이터 원칙
 
 문서와 청크는 동일한 `source_id`로 연결해 원문 근거를 추적할 수 있도록 관리합니다. 출처와 재사용 조건이 확인된 자료만 원본과 청크로 저장하며, 조건이 불분명한 자료는 출처 정보만 기록합니다. 비밀키, 개인 정보, 비공개 업무자료는 저장소에 올리지 않습니다.
 
-데이터 업로드 경로와 형식은 [`knowledge-mcp` 데이터 안내](https://github.com/KTcs-KLink/knowledge-mcp/tree/main/data)에서 확인할 수 있습니다.
+데이터 업로드 경로와 형식은 `knowledge-mcp/data/` 안내에서 확인할 수 있습니다.
 
 ## 함께 참여하기
 
@@ -37,7 +37,7 @@
 3. 작업 브랜치에서 변경하고 Pull Request로 공유합니다.
 4. 팀원 리뷰를 반영한 뒤 `main`에 병합합니다.
 
-브랜치·커밋·리뷰 규칙은 [협업 가이드](https://github.com/KTcs-KLink/.github/blob/main/CONTRIBUTING.md)를 참고하세요.
+브랜치·커밋·리뷰 규칙은 [협업 가이드](../CONTRIBUTING.md)를 참고하세요.
 
 ## 프로젝트 산출물 목표
 
