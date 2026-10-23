@@ -1,4 +1,4 @@
-# K-Link
+# K:LINK
 
 <p align="center">
   <strong>업무지식을 더 빠르게 찾고, 근거와 함께 활용하는 AI</strong><br>
