@@ -1,11 +1,11 @@
-# KTcs K-Link 협업 규칙
+# K:LINK 협업 규칙
 
-이 저장소는 `KTcs-KLink` 조직의 공통 협업 규칙과 GitHub 템플릿을 관리합니다.
+이 저장소는 K-Link 프로젝트의 공통 협업 규칙과 GitHub 템플릿을 관리합니다.
 
 ## 프로젝트 저장소
 
-- [`ai-assistant`](https://github.com/KTcs-KLink/ai-assistant): 사용자 화면, Assistant 서버·오케스트레이터 및 MCP Client
-- [`knowledge-mcp`](https://github.com/KTcs-KLink/knowledge-mcp): 업무지식 데이터·청크, 검색 및 MCP Server
+- `ai-assistant`: 사용자 화면, Assistant 서버·오케스트레이터 및 MCP Client
+- `knowledge-mcp`: 업무지식 데이터·청크, 검색 및 MCP Server
 
 ## 시작하기
 
